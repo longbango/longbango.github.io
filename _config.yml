@@ -1,8 +1,8 @@
 # Site settings
 title_left    : "longbango "
 title_right   : "space" # default: ""
-# description   : "Tech blog."
-# keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+description   : "Tech blog and random stuffs."
+keywords      : "free, download, SEO, blog, web, minimalist, sdn, system, longbango, java, python"
 url           : https://longbango.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
