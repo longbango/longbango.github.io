@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Thinkspace
 
-You can use the [editor on GitHub](https://github.com/longbango/longbango.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> Thinkspace is just another minimalist Jekyll theme which designed for technical writing blog.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-2.5-green.svg) ![TRAVIS-CI](https://travis-ci.org/heiswayi/thinkspace.svg?branch=master)
 
-### Markdown
+- **Demo:** https://heiswayi.github.io/thinkspace/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![SCREENSHOT](https://i.imgur.com/1YS078k.png)
 
-```markdown
-Syntax highlighted code block
+## License
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/longbango/longbango.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[MIT](LICENSE.md)
